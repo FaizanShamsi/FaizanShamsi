@@ -1,5 +1,5 @@
 <h1>Full Stack Maestro</h1>
-<p>Welcome to my digital playground!💡💻 I'm <b>Owais Khan</b>, a passionate software engineer having over 5 years in development. Has much experience in creating logical and innovative solutions to complex problems. Has a keen interest in technology and user experience. </p>
+<p>Welcome to my digital playground!💡💻 I'm <b>Faizan Shamsi</b>, a passionate software engineer having over 5 years in development. Has much experience in creating logical and innovative solutions to complex problems. Has a keen interest in technology and user experience. </p>
 <h2>🛠️ My Skills:</h2>
 <ul>
 <li><h3>Front-End:</h3>
@@ -59,16 +59,16 @@
 </ul>
 <h2>📬 Get in Touch:</h2>
 <p>
-<a href="https://github.com/owais6153"  align="center">
+<a href=""  align="center">
   <img  align="center" src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
 </a>
-<a href="https://www.linkedin.com/in/owais6153/"  align="center">
+<a href=""  align="center">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:owais6153@gmail.com"  align="center">
+<a href=""  align="center">
   <img  align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-<a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
+<!-- <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center"> -->
   <img  align="center" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
 </a>
 </p>
