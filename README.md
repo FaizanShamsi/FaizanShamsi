@@ -1,5 +1,5 @@
 <h1>Full Stack Maestro</h1>
-<p>Welcome to my digital playground!💡💻 I'm <b>Faizan Shamsi</b>, a passionate software engineer having over 5 years in development. Has much experience in creating logical and innovative solutions to complex problems. Has a keen interest in technology and user experience. </p>
+<p>Welcome to my digital playground!💡💻 I'm <b>Faizan Shamsi</b>, a passionate software engineer having 1 year in development. Has much experience in creating logical and innovative solutions to complex problems. Has a keen interest in technology and user experience. </p>
 <h2>🛠️ My Skills:</h2>
 <ul>
 <li><h3>Front-End:</h3>
