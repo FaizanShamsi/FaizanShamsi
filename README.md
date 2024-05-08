@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <h1>Frontend Developer</h1>
 <p>I'm <b>Faizan Shamsi</b>, a passionate software engineer having over 1 years in development. Has much experience in creating logical and innovative solutions to complex problems. Has a keen interest in technology and user experience. </p>
 <h2>Skills:</h2>
+=======
+<h1>Full Stack Maestro</h1>
+<p>Welcome to my digital playground!💡💻 I'm <b>Faizan Shamsi</b>, a passionate software engineer having 1 year in development. Has much experience in creating logical and innovative solutions to complex problems. Has a keen interest in technology and user experience. </p>
+<h2>🛠️ My Skills:</h2>
+>>>>>>> fb85ecad35eb50880cbdcffb648a29c954ca7cac
 <ul>
 <li><h3>Front-End:</h3>
 <div style="display: flex; gap: 5px;">
